@@ -7,12 +7,8 @@ This will start off as a single list but could certainly grow into a much more o
 
 Started here: https://etherpad.mozilla.org/weburl-easywins
 
+# The List
 ```
-
-# meta discussion#suffix directories with a '/'
-# '#' is a comment char. I don't know what you'll have to do if you want to use a # in a url (shouldn't need to anyway)
-
-# the list
 /.bzr/README
 /.git/config
 /.hg/requires
@@ -98,13 +94,12 @@ Started here: https://etherpad.mozilla.org/weburl-easywins
 /wp-admin/
 /wsman
 /xampp/
-
-
-# other tricks
-# Add a ~ to any .php you see.
-# Also add # to any .php you see; example wp-config.php# (for all the emacs users that somehow are still alive)
-# Add .bak or .old after any .php you see (Or replace .php with them) - may still get preprocessed though. e.g. index.php --> index.php.old, index.bak etc.
-# Try .phps for php source, alternate naming convention
-#Some places still use test.domain.tld for testing new configurations before deploying, may have different access controls that allow you to see directory listings, etc
-
 ```
+
+# Other Tricks
+
++ Add a ~ to any .php you see.
++ Also add # to any .php you see; example wp-config.php# (for all the emacs users that somehow are still alive)
++ Add .bak or .old after any .php you see (Or replace .php with them) - may still get preprocessed though. e.g. index.php --> index.php.old, index.bak etc.
++ Try .phps for php source, alternate naming convention
++ Some places still use test.domain.tld for testing new configurations before deploying, may have different access controls that allow you to see directory listings, etc
