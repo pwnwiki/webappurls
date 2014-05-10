@@ -1,4 +1,4 @@
-Web App Defauls URL list
+Web App Defaults URL list
 ==========
 
 A public list of URLs generally useful to webapp testers and pentesters.
@@ -15,7 +15,7 @@ Started here: https://etherpad.mozilla.org/weburl-easywins
 /.htaccess
 /.htpasswd
 /.svn/wc.db
-/?Workshop/valid_page_name_in_current_directory&login #CMSimple login panel 
+/?Workshop/valid_page_name_in_current_directory&login #CMSimple login panel
 /CFIDE/adminapi/administrator.cfc
 /CFIDE/administrator/enter.cfm
 /CFIDE/administrator/index.cfm
