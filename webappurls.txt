@@ -4,7 +4,6 @@
 /.htaccess
 /.htpasswd
 /.svn/wc.db
-/?Workshop/valid_page_name_in_current_directory&login
 /CFIDE/adminapi/administrator.cfc
 /CFIDE/administrator/enter.cfm
 /CFIDE/administrator/index.cfm
