@@ -82,3 +82,5 @@
 /wp-admin/
 /wsman
 /xampp/
+/index.php.bak
+/db.php.bak
