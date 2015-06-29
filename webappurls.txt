@@ -48,6 +48,7 @@
 /info.php
 /install
 /install/upgrade.php
+/jenkins/login
 /jmx-console/
 /login
 /logon
