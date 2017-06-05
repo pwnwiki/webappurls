@@ -7,6 +7,8 @@ This will start off as a single list but could certainly grow into a much more o
 
 Started here: https://etherpad.mozilla.org/weburl-easywins
 
+A python script is provided in this repo which can be used to automate checking all these URIs for a given URL. It can be used like this, `python popscan.py http://example.com` anything that doesn't return a 404 is worth looking into further.
+
 # The List
 ```
 /.bzr/README
